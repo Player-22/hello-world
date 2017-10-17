@@ -1,2 +1,4 @@
 # hello-world
-the first project
+
+This is my frist project.
+Nothing is impossible!
